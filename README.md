@@ -1,16 +1,18 @@
-### Hi there 👋
+<a href="https://github.com/XboxOne12">
 
-<!--
-**XboxOne12/XboxOne12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=XboxOne12&column=7&theme=onedark"/>
+  </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a>
+
+<a href="#">
+  <img align="right" src="https://metrics.lecoq.io/XboxOne12?template=terminal" />
+</a>
+
+# XboxOne12 🌝
+
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=XboxOne12&theme=vue-dark&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XboxOne12&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=XboxOne12&repo=my-now-blog&theme=dark">
